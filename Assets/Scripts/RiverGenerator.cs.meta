@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f9f614941aff94c34b863cfeb89aa897
+timeCreated: 1488058389
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {fileID: 4627253854048002, guid: a08e07a5bfb154f7b83d52f8221a5604, type: 2}
+  - sphere: {fileID: 4670706700972170, guid: 08bd5aaf250ff4b2797021e836962800, type: 2}
+  - terminalTexture: {fileID: 2800000, guid: 8ef5502cf6fb24d749b824b97e9d9094, type: 3}
+  - straightTexture: {fileID: 2800000, guid: 767bada3cb129473fa4a376c6b0e5738, type: 3}
+  - bendTexture: {fileID: 2800000, guid: 0bc6670246ad94e8d978b9800b312020, type: 3}
+  - teeTexture: {fileID: 2800000, guid: c78d839a41b3f469cabe811b1e755372, type: 3}
+  - crossTexture: {fileID: 2800000, guid: a7fda9df91ac14896bc0ab04202f88b8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEditor.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Mono.Cecil.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Unity.DataContract.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/reuben/Unity/Tiles/Temp/bin/Debug/Mono.Cecil.Mdb.dll
