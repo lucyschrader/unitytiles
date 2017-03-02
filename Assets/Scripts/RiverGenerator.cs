@@ -22,30 +22,13 @@ public class RiverGenerator : MonoBehaviour {
 
 	int [,] map;
 
-	// What the helllllll
-	public class PlayedTile
-	{
-		public Transform tile;
-		public Texture2D tileTexture;
+	class PlayedTile {
+		string tileType;
+		int rotation;
+	}
 
-		public bool isFirst;
-
-		public List<> nodePoints;
-		public string tileOrientation;
-
-		public PlayedTile (Transform tile)
-		{
-			tile = tile;
-		}
-
-		public void AddTexture() {
-			
-		}
-
-		public void firstTile() {
+	Dictionary<int[,], PlayedTile> playedTiles = new Dictionary<int[,], PlayedTile>() {
 		
-		}
-
 	}
 
 	public void Start () {
